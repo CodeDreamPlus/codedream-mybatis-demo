@@ -8,10 +8,10 @@
         <version>2.6.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.codedream</groupId>
-    <artifactId>codedream-mybatis-demo</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
-    <name>codedream-mybatis-demo</name>
+    <groupId>com.codedreamplus</groupId>
+    <artifactId>codedreamplus-mybatis-demo</artifactId>
+    <version>1.0.0</version>
+    <name>${project.groupId}:${project.artifactId}</name>
     <properties>
         <java.version>11</java.version>
     </properties>
@@ -27,9 +27,9 @@
         </dependency>
 
         <dependency>
-            <groupId>com.codedream</groupId>
-            <artifactId>codedream-mybatis</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
+            <groupId>com.codedreamplus</groupId>
+            <artifactId>codedreamplus-mybatis</artifactId>
+            <version>1.0.0</version>
         </dependency>
 
         <dependency>
