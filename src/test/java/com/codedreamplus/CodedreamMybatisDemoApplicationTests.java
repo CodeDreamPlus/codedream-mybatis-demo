@@ -1,4 +1,4 @@
-package com.codedream;
+package com.codedreamplus;
 
 import org.springframework.boot.test.context.SpringBootTest;
 

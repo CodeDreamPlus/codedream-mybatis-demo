@@ -1,8 +1,8 @@
-package com.codedream.student.service;
+package com.codedreamplus.student.service;
 
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.codedream.student.entity.Student;
-import com.codedream.student.mapper.StudentMapper;
+import com.codedreamplus.student.entity.Student;
+import com.codedreamplus.student.mapper.StudentMapper;
 import org.springframework.stereotype.Service;
 
 /**

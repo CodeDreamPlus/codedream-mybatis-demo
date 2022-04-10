@@ -1,8 +1,7 @@
-package com.codedream.student.mapper;
+package com.codedreamplus.student.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.codedream.student.entity.Student;
-import org.apache.ibatis.annotations.Mapper;
+import com.codedreamplus.student.entity.Student;
 import org.apache.ibatis.annotations.Param;
 
 /**

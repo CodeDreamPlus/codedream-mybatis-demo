@@ -1,7 +1,7 @@
-package com.codedream.student.config;
+package com.codedreamplus.student.config;
 
-import com.codedream.mybatis.plugins.MybatisPlusAutoFill;
-import com.codedream.mybatis.plugins.handler.UserHandler;
+import com.codedreamplus.mybatis.plugins.MybatisPlusAutoFill;
+import com.codedreamplus.mybatis.plugins.handler.UserHandler;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

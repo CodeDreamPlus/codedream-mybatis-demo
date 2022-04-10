@@ -1,7 +1,7 @@
-package com.codedream.student.entity;
+package com.codedreamplus.student.entity;
 
 import com.baomidou.mybatisplus.annotation.TableName;
-import com.codedream.mybatis.base.BaseEntity;
+import com.codedreamplus.mybatis.base.BaseEntity;
 import lombok.Data;
 
 /**

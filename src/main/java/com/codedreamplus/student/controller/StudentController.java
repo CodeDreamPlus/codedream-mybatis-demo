@@ -1,11 +1,11 @@
-package com.codedream.student.controller;
+package com.codedreamplus.student.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.core.conditions.update.UpdateWrapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.codedream.student.entity.Student;
-import com.codedream.student.service.StudentService;
+import com.codedreamplus.student.entity.Student;
+import com.codedreamplus.student.service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
