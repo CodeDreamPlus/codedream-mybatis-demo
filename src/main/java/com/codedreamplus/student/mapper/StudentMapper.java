@@ -5,7 +5,7 @@ import com.codedreamplus.student.entity.Student;
 import org.apache.ibatis.annotations.Param;
 
 /**
- * @author ShiJianlong
+ * @author YuFeng
  * @date 2022/3/18 00:02
  */
 public interface StudentMapper extends BaseMapper<Student> {

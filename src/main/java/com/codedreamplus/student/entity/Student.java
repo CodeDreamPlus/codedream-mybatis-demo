@@ -5,7 +5,7 @@ import com.codedreamplus.mybatis.base.BaseEntity;
 import lombok.Data;
 
 /**
- * @author ShiJianlong
+ * @author YuFeng
  * @date 2022/3/14 10:24
  */
 @TableName("student")

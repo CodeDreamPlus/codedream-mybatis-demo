@@ -10,8 +10,8 @@ spring:
       username: root
       password: root
       stat-view-servlet:
-        login-username: codedream
-        login-password: codedream
+        login-username: codedreamplus
+        login-password: codedreamplus
         reset-enable: false
         url-pattern: /druid/*
         enabled: true
@@ -21,7 +21,7 @@ spring:
       filters: stat,wall,slf4j
 
 
-codedream:
+codedreamplus:
   mybatis-plus:
     tenant-mode: false
     block-attack: true

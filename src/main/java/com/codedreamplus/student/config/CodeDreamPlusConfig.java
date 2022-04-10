@@ -6,12 +6,12 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author ShiJianlong
+ * @author YuFeng
  * @date 2022/3/21 23:04
  */
 
 @Configuration(proxyBeanMethods = false)
-public class CodeDreamConfig {
+public class CodeDreamPlusConfig {
     @Bean
     public UserHandler userHandler() {
         return new UserHandler() {

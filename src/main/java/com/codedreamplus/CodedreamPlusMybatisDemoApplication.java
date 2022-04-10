@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CodedreamMybatisDemoApplication {
+public class CodedreamPlusMybatisDemoApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CodedreamMybatisDemoApplication.class, args);
+        SpringApplication.run(CodedreamPlusMybatisDemoApplication.class, args);
     }
 
 }
